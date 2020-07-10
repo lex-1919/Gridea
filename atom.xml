@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lex-1919.github.io/mysite/</id>
-    <title>片语 App</title>
-    <updated>2020-07-10T14:57:11.779Z</updated>
+    <title>屠家樑</title>
+    <updated>2020-07-10T15:05:10.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lex-1919.github.io/mysite/"/>
     <link rel="self" href="https://lex-1919.github.io/mysite/atom.xml"/>
-    <subtitle>让灵感轻巧记录</subtitle>
     <logo>https://lex-1919.github.io/mysite/images/avatar.png</logo>
     <icon>https://lex-1919.github.io/mysite/favicon.ico</icon>
-    <rights>All rights reserved 2020, 片语 App</rights>
+    <rights>All rights reserved 2020, 屠家樑</rights>
     <entry>
         <title type="html"><![CDATA[时代的片语]]></title>
         <id>https://lex-1919.github.io/mysite/shi-dai-de-pian-yu/</id>
