@@ -1103,13 +1103,19 @@ color: #111111;
 .site-header {
     padding-top: 80px;
 }
-
+.site-header .avatar {
+    margin-bottom: 24px;
+    border-radius: 0%;
+    width: 217px;
+    height: auto;
+    max-width: 217px;
+}
 }
 
 .site-header .avatar {
     margin-bottom: 24px;
     border-radius: 0%;
-    width: 217;
+    width: 217px;
     height: auto;
     max-width: 217px;
 }
