@@ -1110,5 +1110,27 @@ color: #111111;
 }
 }
 
+/**
+ * 头像分辨率
+ */
+/*默认大小*/
+.avatar {background-image: url(avatar.png);}
+/* 如果设备像素大于等于2，则用2倍图 */
+@media screen and (-webkit-min-device-pixel-ratio: 2),
+screen and (min--moz-device-pixel-ratio: 2) {
+  .avatar {
+    background-image: url(avatar@2x);
+    background-size: 216px 72px;
+  }
+}
+/* 如果设备像素大于等于3，则用3倍图 */
+@media screen and (-webkit-min-device-pixel-ratio: 3),
+screen and (min--moz-device-pixel-ratio: 3) {
+  .avatar {
+    background-image: url(avatar@3x);
+    background-size: 216px 72px;
+  }
+}
+.avatar {width:216px;height:72px;}
 
     
