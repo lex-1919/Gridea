@@ -1014,12 +1014,7 @@ td {
 .avatar{
     float: left;
 }
-.site-header .avatar {
-    margin-bottom: 24px;
-    border-radius: 0%;
-    width: 217;
-    height: auto;
-}
+
 .post-detail .post {
     padding: 0;
 }
@@ -1116,6 +1111,7 @@ color: #111111;
     border-radius: 0%;
     width: 217;
     height: auto;
+    max-width: 217px;
 }
 
     
