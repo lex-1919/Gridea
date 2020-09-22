@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lex-1919.github.io/mysite/</id>
-    <title>屠家樑</title>
-    <updated>2020-07-10T15:13:35.975Z</updated>
+    <id>https://ak4jjs.coding-pages.com</id>
+    <title>自然风</title>
+    <updated>2020-09-22T10:19:10.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lex-1919.github.io/mysite/"/>
-    <link rel="self" href="https://lex-1919.github.io/mysite/atom.xml"/>
-    <logo>https://lex-1919.github.io/mysite/images/avatar.png</logo>
-    <icon>https://lex-1919.github.io/mysite/favicon.ico</icon>
-    <rights>All rights reserved 2020, 屠家樑</rights>
+    <link rel="alternate" href="https://ak4jjs.coding-pages.com"/>
+    <link rel="self" href="https://ak4jjs.coding-pages.com/atom.xml"/>
+    <logo>https://ak4jjs.coding-pages.com/images/avatar.png</logo>
+    <icon>https://ak4jjs.coding-pages.com/favicon.ico</icon>
+    <rights>All rights reserved 2020, 自然风</rights>
     <entry>
         <title type="html"><![CDATA[时代的片语]]></title>
-        <id>https://lex-1919.github.io/mysite/shi-dai-de-pian-yu/</id>
-        <link href="https://lex-1919.github.io/mysite/shi-dai-de-pian-yu/">
+        <id>https://ak4jjs.coding-pages.com/shi-dai-de-pian-yu/</id>
+        <link href="https://ak4jjs.coding-pages.com/shi-dai-de-pian-yu/">
         </link>
         <updated>2020-07-07T14:28:15.000Z</updated>
     </entry>
