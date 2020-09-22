@@ -1108,14 +1108,15 @@ color: #111111;
 .site-header {
     padding-top: 80px;
 }
-}
-
 .site-header .avatar {
     margin-bottom: 24px;
     border-radius: 0%;
     width: 217;
     height: auto;
 }
+}
+
+
 }
 .avatar {width:216px;height:72px;}
 
