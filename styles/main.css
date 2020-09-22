@@ -996,10 +996,6 @@ td {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
       }
     
-      .toc-container {
-        display: none;
-      }
-    
       body {
         color: #111111;
       }
@@ -1021,7 +1017,7 @@ td {
 .site-header .avatar {
     margin-bottom: 24px;
     border-radius: 0%;
-    width: auto;
+    width: 217;
     height: auto;
 }
 .post-detail .post {
