@@ -305,12 +305,12 @@ html {
   font-size: 58%;
 }
 body {
-  color: #111111;
+  color: #333333;
   font: 400 16px/1.6 -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
   letter-spacing: 0.05em;
 }
 a {
-  color: #111111;
+  color: #333333;
   text-decoration: none;
   transition: all 0.3s;
 }
@@ -996,6 +996,10 @@ td {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
       }
     
+      .toc-container {
+        display: none;
+      }
+    
       body {
         color: #111111;
       }
@@ -1075,6 +1079,27 @@ letter-spacing: 0.05em;
 }
 
 .post-title{
-color:  #111111;
+color:  #333333;
+}
+
+.post-container .post .post-title {
+  font-size: 28px;
+  text-align: left;
+  padding: 24px 0;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.post-detail .post .post-title {
+    font-size: 28px;
+    text-align: left;
+    padding: 24px 0;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+}
+
+.post-detail .post .post-content h2 {
+    font-size: 1.42em;
+color: #333333;
 }
     
