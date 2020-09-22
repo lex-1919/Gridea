@@ -1060,7 +1060,7 @@ td {
  */
 body{
 font-family: "TIBch", "Classic Grotesque W01", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif;
-color: #454545;
+color: #111111;
 line-height: 1.6;
 }
 
@@ -1109,6 +1109,9 @@ color: #111111;
     width: 217px;
     height: auto;
     max-width: 217px;
+}
+.post-detail .post .post-info {
+    padding-bottom: 16px;
 }
 }
 
