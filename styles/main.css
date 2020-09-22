@@ -305,12 +305,12 @@ html {
   font-size: 58%;
 }
 body {
-  color: rgba(0, 0, 0, 0.86);
-  font: 400 16px/1.42 -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+  color: #111111;
+  font: 400 16px/1.6 -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
   letter-spacing: 0.05em;
 }
 a {
-  color: rgba(0, 0, 0, 0.98);
+  color: #111111;
   text-decoration: none;
   transition: all 0.3s;
 }
@@ -548,7 +548,7 @@ td {
 .post-detail .post .post-content {
   width: 100%;
   flex-shrink: 0;
-  font-family: "Droid Serif", "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+  font-family: "TIBch", "Classic Grotesque W01", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif;
 }
 .post-detail .post .post-content a {
   color: rgba(0, 0, 0, 0.98);
@@ -1005,6 +1005,76 @@ td {
       }
     
       a:hover {
-        color: #3bc9db;
+        color: #666666;
       }
+    
+      .site-title {
+    display: none;
+}
+.avatar{
+    float: left;
+}
+.site-header .avatar {
+    margin-bottom: 24px;
+    border-radius: 0%;
+    width: auto;
+    height: auto;
+}
+.post-detail .post {
+    padding: 0;
+}
+/**
+ * 去掉详情页padding
+ */
+
+.post-container .post .post-title {
+    font-size: 32px;
+}
+/**
+ * 列表文字样式
+ */
+
+.post-container .post .post-info {
+    padding-bottom: 0px;
+}
+/**
+ * 列表tag下边距
+ */
+
+.post-container .post .post-feature-image {
+ margin-top: 24px;
+}
+/**
+ * 列表图片上边距
+ */
+
+.site-header {
+    padding: 80px 0 48px 0;
+}
+/**
+ * logo 上边距
+ */
+
+.post-container .post .post-abstract {
+    line-height: 1.6;
+    font-size: 18px;
+    font-weight: normal;
+}
+/**
+ * 列表字号
+ */
+body{
+font-family: "TIBch", "Classic Grotesque W01", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif;
+color: #454545;
+line-height: 1.6;
+}
+
+.post-detail .post .post-content p {
+  line-height: 1.6;
+letter-spacing: 0.05em;
+}
+
+.post-title{
+color:  #111111;
+}
     
