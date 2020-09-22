@@ -1102,9 +1102,9 @@ color: #111111;
   .site-header {
     padding: 0;
   }
-.post-container .post {
-  padding: 0px;
-}
+ .post-container .post {
+    padding: 0px;
+  }
 .site-header {
     padding-top: 80px;
 }
