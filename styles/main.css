@@ -1967,7 +1967,7 @@ font-weight: 500;
 /*修改详情页宽度*/
 
 .post-list-container .post-inner {
-    min-width: 858px;
+    min-width: 0px;
     max-width: 858px;
 }
 /*修改列表宽度*/
