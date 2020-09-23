@@ -1977,6 +1977,11 @@ font-weight: 500;
 }
 /*去掉标题下划线*/
 
-
-/*去掉导航下划线*/
+@media (max-width: 992px)
+.navbar .navbar-brand .site-name {
+    font-size: 21px !important;
+    font-weight: bold;
+    font-family: serif;
+}
+/*移动端logo改为宋体*/
     
