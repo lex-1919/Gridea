@@ -1989,17 +1989,5 @@ font-weight: 500;
 }
 /*移动端logo改为宋体，详情页宽度自适应*/
 
-.searched-keyword {
-    background-color: #b0eaf1 !important;
-    color: #777777 !important;
-}
-.navbar .navbar-nav .nav-item a {
-background: none !important;
-}
-/*去掉导航和标题下划线*/
 
-element.style {
- margin-left: 24px;
-}
-/*搜索增加左边距*/
     
