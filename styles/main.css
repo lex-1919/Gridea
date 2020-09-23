@@ -1986,8 +1986,12 @@ font-weight: 500;
 .post-container .post-detail {
     width: auto;
 }
+.searched-keyword {
+    background-color: #afe8ef !important;
+    color: #777777 !important;
 }
-/*移动端logo改为宋体，详情页宽度自适应*/
+}
+/*移动端logo改为宋体，详情页宽度自适应，搜索关键字高亮*/
 
 .post-content h2 {
     background: none !important;
@@ -1998,4 +2002,10 @@ font-weight: 500;
     width: 100;
 }
 /*搜索宽度减小*/
+
+.searched-keyword {
+    background-color: #afe8ef !important;
+    color: #777777 !important;
+}
+/*搜索关键字高亮*/
     
