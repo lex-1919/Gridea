@@ -1989,5 +1989,8 @@ font-weight: 500;
 }
 /*移动端logo改为宋体，详情页宽度自适应*/
 
-
+.post-content h2 {
+    background: none !important;
+}
+/*去掉二级标题下划线*/
     
