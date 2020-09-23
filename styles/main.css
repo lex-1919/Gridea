@@ -1993,4 +1993,9 @@ font-weight: 500;
     background: none !important;
 }
 /*去掉二级标题下划线*/
+
+#gridea-search-form .search-input {
+    width: 100;
+}
+/*搜索宽度减小*/
     
