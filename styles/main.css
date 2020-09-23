@@ -1988,4 +1988,9 @@ font-weight: 500;
 }
 }
 /*移动端logo改为宋体，详情页宽度自适应*/
+
+.searched-keyword {
+    background-color: #b0eaf1 !important;
+    color: #777777 !important;
+}
     
