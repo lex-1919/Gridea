@@ -1973,7 +1973,7 @@ font-weight: 500;
 /*修改列表宽度*/
 
 .post-content h2 {
-    background: none;
+    background: none !important;
 }
 /*去掉标题下划线*/
 
@@ -1993,4 +1993,13 @@ font-weight: 500;
     background-color: #b0eaf1 !important;
     color: #777777 !important;
 }
+.navbar .navbar-nav .nav-item a {
+background: none !important;
+}
+/*去掉导航和标题下划线*/
+
+element.style {
+ margin-left: 24px;
+}
+/*搜索增加左边距*/
     
