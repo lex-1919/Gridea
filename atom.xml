@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ak4jjs.coding-pages.com</id>
     <title>自然风</title>
-    <updated>2020-11-26T15:18:21.446Z</updated>
+    <updated>2020-11-26T15:18:58.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ak4jjs.coding-pages.com"/>
     <link rel="self" href="https://ak4jjs.coding-pages.com/atom.xml"/>
@@ -15,6 +15,10 @@
         <link href="https://ak4jjs.coding-pages.com/RN_Vw53eQ/">
         </link>
         <updated>2020-11-26T15:15:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>普通人的注意力如此容易分散，以至于办公室里的各种噪音，如同事交流、鼠标键盘的声音、其他杂音等都能随时将你的工作意识打断。索性戴上耳机，以物理形式隔绝外界，也算是一种仪式。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>普通人的注意力如此容易分散，以至于办公室里的各种噪音，如同事交流、鼠标键盘的声音、其他杂音等都能随时将你的工作意识打断。索性戴上耳机，以物理形式隔绝外界，也算是一种仪式。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[每当变幻时]]></title>
