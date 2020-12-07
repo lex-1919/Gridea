@@ -2044,4 +2044,10 @@ color:#111111;
 .gt-a-link {
     color: #111111!important;
 }
+/*logo*/
+.navbar .navbar-brand .site-name {
+    margin-left: 0px;
+    font-family: "Noto Serif","PT Serif","source-han-serif-sc",Songti SC,serif!important;
+    font-weight: 900;
+}
     
