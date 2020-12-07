@@ -2028,16 +2028,20 @@ background:none;
     position: relative!important;
     background: linear-gradient(180deg, transparent 100%, RGBA(59,201,219,0.4) 0)!important;
 }
-
+/*标题，正文颜色*/
 h2,p,a,post-title{
 color:#111111;
 }
-
+/*列表说明颜色*/
 .gt-c-content-color-first {
     color: #111111!important;
 }
-
+/*列表标题颜色*/
 .post-title gt-c-content-color-first {
     color: #11111!important;
+}
+/*导航颜色*/
+.gt-a-link {
+    color: #111111!important;
 }
     
