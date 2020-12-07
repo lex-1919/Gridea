@@ -2020,7 +2020,9 @@ background:none;
 background:none;
 }
 /*去掉h1底色*/
-.post-content h1{
-background:none;
+.gt-a-link {
+    color: #333333!important;
+    position: relative!important;
+    background: linear-gradient(180deg, transparent 100%, RGBA(59,201,219,0.4) 0)!important;
 }
     
