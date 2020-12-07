@@ -2015,11 +2015,14 @@ body{
 .post-title gt-a-link{
 background:none;
 }
-/*去掉导航底色*/
-.menu gt-a-link{
-background:none;
-}
 /*去掉h1底色*/
+.post-content h1 {
+    display: inline-block;
+    color: #333333!important;
+    position: relative!important;
+    background: linear-gradient(180deg, transparent 100%, RGBA(59,201,219,0.4) 0)!important;
+}
+/*去掉导航底色*/
 .gt-a-link {
     color: #333333!important;
     position: relative!important;
