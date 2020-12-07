@@ -2019,4 +2019,8 @@ background:none;
 .menu gt-a-link{
 background:none;
 }
+/*去掉h1底色*/
+.post-content h1{
+background:none;
+}
     
