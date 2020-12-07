@@ -2050,4 +2050,14 @@ color:#111111;
     font-family: "Noto Serif","PT Serif","source-han-serif-sc",Songti SC,serif!important;
     font-weight: 900;
 }
+/*正文区域padding*/
+.post-list-container .post-inner .post {
+    margin: 20px;
+    padding: 20px;
+    transition: none;
+}
+/*去掉hover变大*/
+.post-list-container .post-inner .post:hover {
+    transform: none;
+}
     
