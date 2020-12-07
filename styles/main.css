@@ -2054,10 +2054,23 @@ color:#111111;
 .post-list-container .post-inner .post {
     margin: 20px!important;
     padding: 20px!important;
-    transition: none!important;
 }
 /*去掉hover变大*/
 .post-list-container .post-inner .post:hover {
     transform: none!important;
+}
+/*列表标题自重*/
+.post-list-container .post-inner .post .post-left .post-title {
+    font-weight: 700;
+}
+/*图片高度重*/
+.post-list-container .post-inner .post .post-feature-image {
+    height: 120px;
+    border-radius: 4px;
+}
+/*list cell padding*/
+.post-list-container .post-inner .post {
+    margin: 20px!important;
+    padding: 40px 20px 40px 20px !important;
 }
     
