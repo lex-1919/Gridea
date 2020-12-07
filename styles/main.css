@@ -2011,4 +2011,12 @@ font-weight: 500;
 body{
 -webkit-font-smoothing: antialiased;
 }
+/*去掉上下篇底色*/
+.post-title gt-a-link{
+background:none;
+}
+/*去掉导航底色*/
+.menu gt-a-link{
+background:none;
+}
     
