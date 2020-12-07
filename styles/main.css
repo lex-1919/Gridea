@@ -2007,5 +2007,8 @@ font-weight: 500;
     background-color: #afe8ef !important;
     color: #777777 !important;
 }
-/*搜索关键字高亮*/
+/*字体平滑*/
+body{
+-webkit-font-smoothing: antialiased;
+}
     
