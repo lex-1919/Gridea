@@ -2029,7 +2029,15 @@ background:none;
     background: linear-gradient(180deg, transparent 100%, RGBA(59,201,219,0.4) 0)!important;
 }
 
-h2,p,a,post-title,.gt-c-content-color-first,.post-time gt-c-content-color-first{
+h2,p,a,post-title{
 color:#111111;
+}
+
+.gt-c-content-color-first {
+    color: #111111!important;
+}
+
+.post-title gt-c-content-color-first {
+    color: #11111!important;
 }
     
