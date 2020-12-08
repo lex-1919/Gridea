@@ -2073,4 +2073,33 @@ color:#111111;
     margin: 20px!important;
     padding: 40px 20px 40px 20px !important;
 }
+/*正文标题*/
+.post-container .post-detail .post-title {
+    font-weight: 700;
+    font-size: 36px;
+}
+/*正文字*/
+.gt-post-content p {
+    line-height: 1.725;
+    margin-bottom: 18px;
+    font-size: 18px;
+    letter-spacing: 1.0382px;
+}
+/*列表露出正文字号*/
+.post-list-container .post-inner .post .post-left .post-abstract * {
+    font-size: 15px;
+}
+/*列表露出正文上边距*/
+.post-list-container .post-inner .post .post-left .post-abstract {
+    margin-top: 8px;
+}
+/*下一篇下边距*/
+.next-post {
+margin-bottom: 80px;
+}
+
+.next-post .post-title {
+    font-size: 24px;
+    font-weight: 700;
+}
     
