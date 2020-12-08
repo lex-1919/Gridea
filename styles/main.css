@@ -541,7 +541,7 @@ ul li {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  transition: all 0.3s;
+  transition: none;
 }
 .post-list-container .post-inner .post .post-left {
   width: 100%;
