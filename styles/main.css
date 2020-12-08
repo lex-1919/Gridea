@@ -581,7 +581,7 @@ ul li {
   margin-left: 10px;
 }
 .post-list-container .post-inner .post:hover {
-  transform: scale(1.012);
+  transform: none;
 }
 .post-list-container .post-inner .post .post-feature-image {
   width: 200px;
