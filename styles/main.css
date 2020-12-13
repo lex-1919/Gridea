@@ -2087,7 +2087,8 @@ color:#111111;
 }
 /*列表露出正文字号*/
 .post-list-container .post-inner .post .post-left .post-abstract * {
-    font-size: 15px;
+    font-size: 16px;
+    line-height: 28px;
 }
 /*列表露出正文上边距*/
 .post-list-container .post-inner .post .post-left .post-abstract {
@@ -2115,5 +2116,15 @@ margin-bottom: 80px;
 
 .navbar .navbar-brand .site-name{
 margin-left:10px;
+}
+
+
+.post-info a{
+color:#999999 !important;
+}
+
+.post-list-container .post-inner .post .post-left .post-info .post-time {
+    font-size: 12px;
+    color: #999999 !important;
 }
     
