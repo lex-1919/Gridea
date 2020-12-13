@@ -1945,4 +1945,8 @@ html{
 h1 {
  margin: 32px 0px !important;
 }
+
+.post-container .post-detail {
+    max-width: 800px;
+}
     
