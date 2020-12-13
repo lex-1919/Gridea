@@ -1927,5 +1927,7 @@ code::-webkit-scrollbar-thumb:hover {
 .user-avatar{
     display:none;
 }
-
+.gt-a-link{
+    background:none !important;
+}
     
