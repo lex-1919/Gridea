@@ -471,10 +471,6 @@ ul li {
   display: flex;
   flex-direction: column;
 }
-html::-webkit-scrollbar-thunb {
-  border-radius: 17px;
-  background: red !important;
-}
 .navbar {
   padding: 38px 96px !important;
 }
@@ -1946,7 +1942,7 @@ html{
     background-color: #151617
 }
 
-*h1 {
- background: none !important;
+h1 {
+ margin: 32px 0px !important;
 }
     
