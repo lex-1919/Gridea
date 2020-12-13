@@ -471,6 +471,10 @@ ul li {
   display: flex;
   flex-direction: column;
 }
+html::-webkit-scrollbar-thunb {
+  border-radius: 17px;
+  background: red !important;
+}
 .navbar {
   padding: 38px 96px !important;
 }
@@ -1930,4 +1934,13 @@ code::-webkit-scrollbar-thumb:hover {
 .gt-a-link{
     background:none !important;
 }
+
+*::-webkit-scrollbar {
+            scrollbar-color: light;
+        }
+
+html{
+    background-color: #151617
+}
+
     
