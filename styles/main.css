@@ -530,8 +530,8 @@ ul li {
   align-items: center;
 }
 .post-list-container .post-inner {
-  min-width: auto;
-  max-width: 860px;
+  min-width: 350px;
+  max-width: 800px;
 }
 .post-list-container .post-inner .post {
   margin: 30px;
@@ -1966,8 +1966,8 @@ h1 {
 }
 
 .post-list-container .post-inner {
-    min-width: auto !important;
-    max-width: 860 !important;
+    min-width: 375px !important;
+    max-width: 800 !important;
 }
 }
 .navbar .navbar-brand .site-name {
