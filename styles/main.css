@@ -1966,8 +1966,8 @@ h1 {
 }
 
 .post-list-container .post-inner {
-    min-width: 315px;
-    max-width: 860px;
+    min-width: 315px !important;
+    max-width: 860px !important;
 }
 .navbar .navbar-brand .site-name {
     font-size: 24px !important;
