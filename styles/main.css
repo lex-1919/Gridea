@@ -2112,4 +2112,8 @@ margin-bottom: 80px;
 .pagination-container .prev-page {
     font-size: 16px;
 }
+
+.navbar .navbar-brand .site-name{
+margin-left:10px;
+}
     
