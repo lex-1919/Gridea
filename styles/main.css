@@ -530,8 +530,8 @@ ul li {
   align-items: center;
 }
 .post-list-container .post-inner {
-  min-width: 1000px;
-  max-width: 1000px;
+  min-width: auto;
+  max-width: 860px;
 }
 .post-list-container .post-inner .post {
   margin: 30px;
