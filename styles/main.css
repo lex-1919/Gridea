@@ -1946,7 +1946,18 @@ h1 {
  margin: 32px 0px !important;
 }
 
+.gt-post-content p {
+    line-height: 1.725;
+    margin-bottom: 24px;
+    font-size: 17px;
+}
+
 .post-container .post-detail {
     max-width: 800px;
+}
+
+.post-list-container .post-inner .post .post-left .post-title {
+    font-size: 24px;
+    font-weight: 500;
 }
     
