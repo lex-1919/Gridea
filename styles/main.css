@@ -767,6 +767,9 @@ html::-webkit-scrollbar-thunb {
 .about-page {
   padding: 24px 32px;
 }
+.post-content h1 {
+  background: none !important;
+}
 .site-footer {
   font-size: 12px;
   text-align: center;
@@ -1943,4 +1946,7 @@ html{
     background-color: #151617
 }
 
+*h1 {
+ background: none !important;
+}
     
