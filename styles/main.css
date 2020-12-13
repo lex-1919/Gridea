@@ -1966,8 +1966,8 @@ h1 {
 }
 
 .post-list-container .post-inner {
-    min-width: auto;
-    max-width: 860;
+    min-width: auto !important;
+    max-width: 860 !important;
 }
 }
 .navbar .navbar-brand .site-name {
