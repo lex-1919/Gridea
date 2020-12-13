@@ -1957,7 +1957,11 @@ h1 {
 }
 
 .post-list-container .post-inner .post .post-left .post-title {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 500;
+}
+
+.post-list-container .post-inner .post .post-left .post-abstract * {
+    font-size: 15px;
 }
     
