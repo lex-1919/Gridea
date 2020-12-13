@@ -1965,6 +1965,10 @@ h1 {
     font-size: 15px;
 }
 
+.post-list-container .post-inner {
+    min-width: 315px;
+    max-width: 860px;
+}
 .navbar .navbar-brand .site-name {
     font-size: 24px !important;
 }
