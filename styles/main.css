@@ -1980,7 +1980,7 @@ h1 {
 
 @media (max-width: 992px){
     .post-container .post-detail {
-padding: 24px 24px !important;
+padding: 24px 24px ;
 }
 }
     
