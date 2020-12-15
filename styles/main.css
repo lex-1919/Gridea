@@ -1977,4 +1977,10 @@ h1 {
     background-color: #64b587 !important;
     color: #333333 !important;
 }
+
+@media (max-width: 992px){
+    .post-container .post-detail {
+padding: 24px 24px !important;
+}
+}
     
