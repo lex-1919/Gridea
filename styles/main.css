@@ -766,6 +766,9 @@ ul li {
 .post-content h1 {
   background: none !important;
 }
+.gt-post-content img {
+  margin: 0px;
+}
 .site-footer {
   font-size: 12px;
   text-align: center;
