@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ak4jjs.coding-pages.com</id>
     <title>家樑的博客</title>
-    <updated>2021-01-01T16:37:09.441Z</updated>
+    <updated>2021-03-13T06:00:36.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ak4jjs.coding-pages.com"/>
     <link rel="self" href="https://ak4jjs.coding-pages.com/atom.xml"/>
     <logo>https://ak4jjs.coding-pages.com/images/avatar.png</logo>
     <icon>https://ak4jjs.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 家樑的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[高至星辰，低至尘埃]]></title>
+        <id>https://ak4jjs.coding-pages.com/TL1zsexQM/</id>
+        <link href="https://ak4jjs.coding-pages.com/TL1zsexQM/">
+        </link>
+        <updated>2021-03-13T05:59:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>过去反复经历工作、辞职和折腾，没做好任何事，没赚到一点钱，在无助和恐惧中纠缠，在自卑和迷茫中停滞。好在有最真挚的爱情和友情陪伴，和永远无私的亲情。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>过去反复经历工作、辞职和折腾，没做好任何事，没赚到一点钱，在无助和恐惧中纠缠，在自卑和迷茫中停滞。好在有最真挚的爱情和友情陪伴，和永远无私的亲情。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不如简单真诚点]]></title>
         <id>https://ak4jjs.coding-pages.com/ZoRFnakRr/</id>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p>型号是海信 A5Pro 3GB+32GB 经典版，同期还有一款彩色墨水屏版本叫 A5Pro cc，经典款侧重纯文字阅读，cc 版侧重漫画阅读，需要区别一下。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>型号是海信 A5Pro 3GB+32GB 经典版，同期还有一款彩色墨水屏版本叫 A5Pro cc，经典款侧重纯文字阅读，cc 版侧重漫画阅读，需要区别一下。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个体意识]]></title>
-        <id>https://ak4jjs.coding-pages.com/HkMcEmYHo/</id>
-        <link href="https://ak4jjs.coding-pages.com/HkMcEmYHo/">
-        </link>
-        <updated>2020-09-05T10:59:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>过去一年多以来，影响我做决策最关键的一个词就是「个体意识」了，可能接近而立之年，各方面的事情都紧迫起来，会更关注自己马上就要面临的问题能否妥善的解决，危机意识潜伏，行为也就受此支配。另一方面，其实会更踏实的思考个人追求、人生意义等较终极的问题，也算是有所获得。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>过去一年多以来，影响我做决策最关键的一个词就是「个体意识」了，可能接近而立之年，各方面的事情都紧迫起来，会更关注自己马上就要面临的问题能否妥善的解决，危机意识潜伏，行为也就受此支配。另一方面，其实会更踏实的思考个人追求、人生意义等较终极的问题，也算是有所获得。</p>
 ]]></content>
     </entry>
 </feed>
