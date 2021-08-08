@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tujialiang.me</id>
     <title>梦之飞鸟</title>
-    <updated>2021-07-08T16:12:35.248Z</updated>
+    <updated>2021-08-08T16:48:55.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tujialiang.me"/>
     <link rel="self" href="https://tujialiang.me/atom.xml"/>
     <logo>https://tujialiang.me/images/avatar.png</logo>
     <icon>https://tujialiang.me/favicon.ico</icon>
     <rights>All rights reserved 2021, 梦之飞鸟</rights>
+    <entry>
+        <title type="html"><![CDATA[立秋]]></title>
+        <id>https://tujialiang.me/2V7x5sJdN/</id>
+        <link href="https://tujialiang.me/2V7x5sJdN/">
+        </link>
+        <updated>2021-08-08T16:27:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>二零二一</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>二零二一</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高至星辰，低至尘埃]]></title>
         <id>https://tujialiang.me/TL1zsexQM/</id>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p>昨天外出地铁上听了一个新的播客《隔壁电台》，那期是其中一个主播讲述他经历肿瘤的故事，几个年轻人一起真诚、幽默和看似轻松的一起交流，也让我一下子对身体健康惊觉了一下，意识到好像很久没有体检了，连忙约了一个周末的体检，正视现实。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>昨天外出地铁上听了一个新的播客《隔壁电台》，那期是其中一个主播讲述他经历肿瘤的故事，几个年轻人一起真诚、幽默和看似轻松的一起交流，也让我一下子对身体健康惊觉了一下，意识到好像很久没有体检了，连忙约了一个周末的体检，正视现实。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海信 A5Pro 墨水屏手机体验]]></title>
-        <id>https://tujialiang.me/LegSBDiIg/</id>
-        <link href="https://tujialiang.me/LegSBDiIg/">
-        </link>
-        <updated>2020-09-17T15:07:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>型号是海信 A5Pro 3GB+32GB 经典版，同期还有一款彩色墨水屏版本叫 A5Pro cc，经典款侧重纯文字阅读，cc 版侧重漫画阅读，需要区别一下。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>型号是海信 A5Pro 3GB+32GB 经典版，同期还有一款彩色墨水屏版本叫 A5Pro cc，经典款侧重纯文字阅读，cc 版侧重漫画阅读，需要区别一下。</p>
 ]]></content>
     </entry>
 </feed>
