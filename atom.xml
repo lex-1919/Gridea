@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jialiang.live</id>
     <title>梦之飞鸟</title>
-    <updated>2021-08-11T17:14:21.519Z</updated>
+    <updated>2021-08-12T19:09:42.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jialiang.live"/>
     <link rel="self" href="https://jialiang.live/atom.xml"/>
     <logo>https://jialiang.live/images/avatar.png</logo>
     <icon>https://jialiang.live/favicon.ico</icon>
     <rights>All rights reserved 2021, 梦之飞鸟</rights>
+    <entry>
+        <title type="html"><![CDATA[小生意]]></title>
+        <id>https://jialiang.live/Mb_MBM2SA/</id>
+        <link href="https://jialiang.live/Mb_MBM2SA/">
+        </link>
+        <updated>2021-08-12T19:09:18.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立秋]]></title>
         <id>https://jialiang.live/2V7x5sJdN/</id>
@@ -106,17 +113,6 @@
         <summary type="html"><![CDATA[<p>译自心理学家和畅销书作家 Benjamin Hardy 文章《连续 30 天 5 点起床的 10 个好处》</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>译自心理学家和畅销书作家 Benjamin Hardy 文章《连续 30 天 5 点起床的 10 个好处》</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于健康]]></title>
-        <id>https://jialiang.live/hRCtykCNw/</id>
-        <link href="https://jialiang.live/hRCtykCNw/">
-        </link>
-        <updated>2020-09-17T15:17:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>昨天外出地铁上听了一个新的播客《隔壁电台》，那期是其中一个主播讲述他经历肿瘤的故事，几个年轻人一起真诚、幽默和看似轻松的一起交流，也让我一下子对身体健康惊觉了一下，意识到好像很久没有体检了，连忙约了一个周末的体检，正视现实。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>昨天外出地铁上听了一个新的播客《隔壁电台》，那期是其中一个主播讲述他经历肿瘤的故事，几个年轻人一起真诚、幽默和看似轻松的一起交流，也让我一下子对身体健康惊觉了一下，意识到好像很久没有体检了，连忙约了一个周末的体检，正视现实。</p>
 ]]></content>
     </entry>
 </feed>
