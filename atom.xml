@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jialiang.live</id>
     <title>梦之飞鸟</title>
-    <updated>2021-08-12T19:20:42.532Z</updated>
+    <updated>2022-01-03T14:26:32.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jialiang.live"/>
     <link rel="self" href="https://jialiang.live/atom.xml"/>
     <logo>https://jialiang.live/images/avatar.png</logo>
     <icon>https://jialiang.live/favicon.ico</icon>
-    <rights>All rights reserved 2021, 梦之飞鸟</rights>
+    <rights>All rights reserved 2022, 梦之飞鸟</rights>
+    <entry>
+        <title type="html"><![CDATA[乔布斯的最后一段话]]></title>
+        <id>https://jialiang.live/I9GloaNEz/</id>
+        <link href="https://jialiang.live/I9GloaNEz/">
+        </link>
+        <updated>2022-01-03T14:25:24.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小生意]]></title>
         <id>https://jialiang.live/Mb_MBM2SA/</id>
@@ -106,17 +113,6 @@
         <summary type="html"><![CDATA[<p>最近中文播客数量骤增，真正有质量的却屈指可数，多数为精英主义的造作表述，宏大空洞，抑或是将之作为个人情绪或观点的发泄地，不吐不快。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>最近中文播客数量骤增，真正有质量的却屈指可数，多数为精英主义的造作表述，宏大空洞，抑或是将之作为个人情绪或观点的发泄地，不吐不快。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早起的隐性好处]]></title>
-        <id>https://jialiang.live/jBl6he6vD/</id>
-        <link href="https://jialiang.live/jBl6he6vD/">
-        </link>
-        <updated>2020-10-09T14:45:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>译自心理学家和畅销书作家 Benjamin Hardy 文章《连续 30 天 5 点起床的 10 个好处》</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>译自心理学家和畅销书作家 Benjamin Hardy 文章《连续 30 天 5 点起床的 10 个好处》</p>
 ]]></content>
     </entry>
 </feed>
