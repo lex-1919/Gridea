@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jialiang.live</id>
     <title>梦之飞鸟</title>
-    <updated>2022-01-12T16:05:21.639Z</updated>
+    <updated>2022-01-18T09:23:08.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jialiang.live"/>
     <link rel="self" href="https://jialiang.live/atom.xml"/>
     <logo>https://jialiang.live/images/avatar.png</logo>
     <icon>https://jialiang.live/favicon.ico</icon>
     <rights>All rights reserved 2022, 梦之飞鸟</rights>
+    <entry>
+        <title type="html"><![CDATA[致二零二一]]></title>
+        <id>https://jialiang.live/sXl0IqsGb/</id>
+        <link href="https://jialiang.live/sXl0IqsGb/">
+        </link>
+        <updated>2022-01-18T09:09:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>此刻坐在上海图书馆，淡黄的落日余晖从顶篷洒进，映在自习和工作的陌生人脸上，让时间的流动慢了一些。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>此刻坐在上海图书馆，淡黄的落日余晖从顶篷洒进，映在自习和工作的陌生人脸上，让时间的流动慢了一些。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乔布斯的最后一段话]]></title>
         <id>https://jialiang.live/I9GloaNEz/</id>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p>電腦玩物站長 Esor</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>電腦玩物站長 Esor</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生命中的珍珠]]></title>
-        <id>https://jialiang.live/5myUaAxuT/</id>
-        <link href="https://jialiang.live/5myUaAxuT/">
-        </link>
-        <updated>2020-10-20T11:22:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>最近中文播客数量骤增，真正有质量的却屈指可数，多数为精英主义的造作表述，宏大空洞，抑或是将之作为个人情绪或观点的发泄地，不吐不快。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>最近中文播客数量骤增，真正有质量的却屈指可数，多数为精英主义的造作表述，宏大空洞，抑或是将之作为个人情绪或观点的发泄地，不吐不快。</p>
 ]]></content>
     </entry>
 </feed>
