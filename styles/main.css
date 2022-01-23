@@ -1946,17 +1946,18 @@ html{
 }
 
 h1 {
- margin: 32px 0px !important;
+ margin: 28px 0px !important;
+ font-size: 24px !important;
 }
 
 .gt-post-content p {
     line-height: 1.8;
-    margin-bottom: 24px;
+    margin-bottom: 16px;
     font-size: 17px;
 }
 
 .post-container .post-detail {
-    max-width: 800px;
+    max-width: 740px;
 }
 
 .post-list-container .post-inner .post .post-left .post-title {
@@ -1970,7 +1971,7 @@ h1 {
 
 .post-list-container .post-inner {
     min-width: 375px !important;
-    max-width: 800 !important;
+    max-width: 740 !important;
 }
 .navbar .navbar-brand .site-name {
     font-size: 24px !important;
@@ -1994,5 +1995,13 @@ padding: 24px 24px ;
 
 .post-content h1{
    background: linear-gradient(180deg, transparent 75%, RGBA(255,255,255,0) 0)!important;
+}
+
+.next-post{
+  margin-top:48px;
+}
+
+.post-detail gt-bg-theme-color-second{
+  padding-bottom: 24px;
 }
     
