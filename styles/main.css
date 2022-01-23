@@ -1941,9 +1941,7 @@ code::-webkit-scrollbar-thumb:hover {
             scrollbar-color: light;
         }
 
-html{
-    background-color: #151617
-}
+
 
 h1 {
  margin: 28px 0px !important;
@@ -1952,7 +1950,7 @@ h1 {
 
 .gt-post-content p {
     line-height: 1.8;
-    margin-bottom: 16px;
+    margin-bottom: 20px;
     font-size: 17px;
 }
 
@@ -1971,7 +1969,7 @@ h1 {
 
 .post-list-container .post-inner {
     min-width: 375px !important;
-    max-width: 740 !important;
+    max-width: 800 !important;
 }
 .navbar .navbar-brand .site-name {
     font-size: 24px !important;
@@ -2003,5 +2001,15 @@ padding: 24px 24px ;
 
 .post-detail gt-bg-theme-color-second{
   padding-bottom: 24px;
+}
+
+.post-list-container .post-inner .post .post-feature-image{
+      margin-left: 36px;
+}
+
+.site-footer {
+    font-size: 12px;
+    text-align: center;
+    padding: 8px;
 }
     
