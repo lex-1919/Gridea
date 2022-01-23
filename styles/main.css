@@ -1992,7 +1992,7 @@ padding: 24px 24px ;
     font-weight: 900;
 }
 
-h1{
+.post-content h1{
    background: linear-gradient(180deg, transparent 75%, RGBA(255,255,255,0) 0)!important;
 }
     
