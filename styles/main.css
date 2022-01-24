@@ -1942,6 +1942,11 @@ code::-webkit-scrollbar-thumb:hover {
             scrollbar-color: light;
         }
 
+body{
+    font-family:TIBch, "Diatype T", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
 h1 {
  margin: 28px 0px !important;
  font-size: 24px !important;
