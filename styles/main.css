@@ -2020,4 +2020,11 @@ padding: 24px 24px ;
 .gt-post-content img {
     margin-bottom: 20px;
 }
+
+.post-container .post-detail{
+   border-radius:0px;
+}
+.post-list-container .post-inner .post{
+   border-radius: 0px;
+}
     
