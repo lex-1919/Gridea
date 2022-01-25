@@ -2021,10 +2021,6 @@ padding: 24px 24px ;
 }
 //导航栏收起
 
-.post-content h1{
-   background: linear-gradient(180deg, transparent 75%, RGBA(255,255,255,0) 0)!important;
-}
-
 .next-post{
   margin-top:48px;
 }
@@ -2064,4 +2060,11 @@ padding: 24px 24px ;
    padding-left:16px;
    padding-right:16px;
 }
+
+.post-content h1 {
+    background: linear-gradient(
+180deg
+, transparent 75%, RGBA(100,181,135,0) 0) !important;
+}
+
     
