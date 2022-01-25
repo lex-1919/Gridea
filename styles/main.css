@@ -2062,4 +2062,8 @@ padding: 24px 24px ;
    display:none;
 }
 
+.post-container .post-detail{
+   padding-left:0px;
+   padding-right:0px;
+}
     
