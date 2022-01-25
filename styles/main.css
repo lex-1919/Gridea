@@ -2003,6 +2003,9 @@ padding: 24px 24px ;
     .navbar-expand-lg{
     max-width: 768 !important;
 }
+    .navbar .navbar-nav .nav-item{
+    padding-left:0px;
+}
 }
 
 .user-avatar site-name {
