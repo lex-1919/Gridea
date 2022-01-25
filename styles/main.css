@@ -1930,6 +1930,18 @@ code::-webkit-scrollbar-thumb:hover {
     margin-left:0px;
 }
 
+.navbar .navbar-nav .nav-item{
+    padding-right: 0px;
+    padding-left: 40px;
+}
+
+.navbar-expand-lg{
+    margin: 0 auto;
+    max-width: 740 !important;
+    width: 100%;
+    padding: 40px 0px !important;
+}
+
 .user-avatar{
     display:none;
 }
@@ -1988,11 +2000,25 @@ h1 {
     .post-container .post-detail {
 padding: 24px 24px ;
 }
+    .navbar-expand-lg{
+    max-width: 768 !important;
+}
 }
 
 .user-avatar site-name {
     font-family: serif;
     font-weight: 900;
+}
+
+@media (max-width: 768px){
+   .navbar-brand{
+   padding-left:16px;
+}
+  .navbar-toggler{
+    margin-right: 16px !important;
+}
+}
+
 }
 
 .post-content h1{
@@ -2032,4 +2058,5 @@ padding: 24px 24px ;
 #gridea-search-form{
    display:none;
 }
+
     
