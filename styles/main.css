@@ -2024,7 +2024,12 @@ padding: 24px 24px ;
 .post-container .post-detail{
    border-radius:0px;
 }
+
 .post-list-container .post-inner .post{
    border-radius: 0px;
+}
+
+#gridea-search-form{
+   display:none;
 }
     
