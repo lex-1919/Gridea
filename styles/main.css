@@ -1930,6 +1930,10 @@ code::-webkit-scrollbar-thumb:hover {
     margin-left:0px;
 }
 
+.navbar{
+   max-width:740px;
+}
+
 .navbar .navbar-nav .nav-item{
     padding-right: 0px;
     padding-left: 40px;
@@ -1985,7 +1989,7 @@ h1 {
 
 .post-list-container .post-inner {
     min-width: 375px !important;
-    max-width: 800 !important;
+    max-width: 740px !important;
 }
 .navbar .navbar-brand .site-name {
     font-size: 24px !important;
@@ -2000,9 +2004,6 @@ h1 {
     .post-container .post-detail {
 padding: 24px 24px ;
 }
-    .navbar-expand-lg{
-    max-width: 768 !important;
-}
     .navbar .navbar-nav .nav-item{
     padding-left:0px;
 }
@@ -2013,16 +2014,12 @@ padding: 24px 24px ;
     font-weight: 900;
 }
 
-@media (max-width: 768px){
-   .navbar-brand{
-   padding-left:16px;
-}
-  .navbar-toggler{
-    margin-right: 16px !important;
-}
+.navbar{
+   max-width:740px !important;
 }
 
 }
+//导航栏收起
 
 .post-content h1{
    background: linear-gradient(180deg, transparent 75%, RGBA(255,255,255,0) 0)!important;
@@ -2056,14 +2053,15 @@ padding: 24px 24px ;
 
 .post-list-container .post-inner .post{
    border-radius: 0px;
+   margin: 30px 0px;
 }
 
 #gridea-search-form{
    display:none;
 }
 
-.post-container .post-detail{
-   padding-left:0px;
-   padding-right:0px;
+.gt-bg-theme-color-first{
+   padding-left:16px;
+   padding-right:16px;
 }
     
