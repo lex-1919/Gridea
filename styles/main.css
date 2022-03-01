@@ -1988,7 +1988,7 @@ h1 {
 }
 
 .post-list-container .post-inner {
-    min-width: 375px !important;
+    min-width: 288px !important;
     max-width: 740px !important;
 }
 .navbar .navbar-brand .site-name {
@@ -2006,7 +2006,6 @@ padding: 24px 24px ;
 }
     .navbar .navbar-nav .nav-item{
     padding-left:0px;
-}
 }
 
 .user-avatar site-name {
