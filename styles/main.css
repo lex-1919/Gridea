@@ -1968,6 +1968,8 @@ h1 {
  font-size: 24px !important;
 }
 
+
+
 .gt-post-content p {
     line-height: 1.8;
     margin-bottom: 20px;
@@ -2064,6 +2066,19 @@ padding: 24px 24px ;
     background: linear-gradient(
 180deg
 , transparent 75%, RGBA(100,181,135,0) 0) !important;
+}
+
+.post-content h2 {
+    background: linear-gradient(
+180deg
+, transparent 75%, RGBA(100,181,135,0) 0) !important;
+}
+
+.gt-post-content blockquote {
+    padding: 16px;
+    border-left: 1px;
+    border-style: solid;
+    margin-bottom: 16px;
 }
 
     
